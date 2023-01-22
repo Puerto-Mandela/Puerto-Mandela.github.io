@@ -1,3 +1,15 @@
+h1 {
+    color:#ffd83c;
+    font-size: 50px;
+    text-align: center;
+   }
+
+h2 {
+    color:#ffd83c;
+    font-size: 50px;
+    text-align: center;
+   }
+
 h3 {
     color: white;
     font-size: 35px;
@@ -7,11 +19,6 @@ p {
     color: white;
     font-size: 25px;
   }
-  
-h1 {
-    color:#ffd83c;
-    font-size: 50px;
-   }
 
 body {
     background:#02224d;
