@@ -10,16 +10,8 @@ h2 {
     text-align: center;
    }
 
-h3 {
-    color: white;
-    font-size: 35px;
-   }
-  
-p {
-    color: white;
-    font-size: 25px;
-  }
-
 body {
     background:#02224d;
+    font-size:16px;
+    color:#ffffff;
      }
